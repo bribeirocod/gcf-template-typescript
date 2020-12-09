@@ -1,7 +1,7 @@
 {
   "name": "gcf-example-typescript",
   "version": "0.0.0",
-  "description": "projeto de referencia para google cloud",
+  "description": "projeto de referencia para google cloud function",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "files": [
